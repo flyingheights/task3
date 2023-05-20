@@ -1,4 +1,4 @@
-name: Confirmation
+name: This is an indication that something has been executed or changed
 
 on:
   push:
