@@ -13,5 +13,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Say Hello
-        run: echo "This is an indication that something has been executed or changed"
+      - name: Say confirmation
+        run: echo "Something has been run/executed/pushed"
